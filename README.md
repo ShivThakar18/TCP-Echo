@@ -24,21 +24,21 @@ Project Requirements
 -------------------------------------------------------------------------------------------------------------------------
 1. Server
   
-  A. Add code to listen for connections
-  
-  B. Add code to accept connections from client
-  
-  C. Add code to receive data from a client connection
-  
-  D. Add code to echo data received by the server back to client
+      A. Add code to listen for connections
+
+      B. Add code to accept connections from client
+
+      C. Add code to receive data from a client connection
+
+      D. Add code to echo data received by the server back to client
   
 2. Client 
 
-  A. Add code to send data to the server
-  
-  B. Add ccode to receive data from the server
-  
-  C. Print the data received from the server
+      A. Add code to send data to the server
+
+      B. Add ccode to receive data from the server
+
+      C. Print the data received from the server
   
 Compile and Run
 -------------------------------------------------------------------------------------------------------------------------
